@@ -101,4 +101,5 @@ Visit: http://localhost:3000
 
 👩‍💻 Author
 
-Krithika S https://github.com/krithika1104
+Krithika
+https://github.com/krithika1104
