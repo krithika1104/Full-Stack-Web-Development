@@ -22,20 +22,16 @@ The Food Recipe Management System allows users to view, organize, and manage rec
 7. Static assets and images support
 
 
+
 🛠️ Technologies Used
 
 
-Frontend
+Frontend: HTML5, CSS3, JavaScript
 
-HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js
 
-Backend
+Database: SQLite
 
-Node.js, Express.js
-
-Database
-
-SQLite
 
 
 📂 Project Structure
@@ -101,7 +97,7 @@ Visit: http://localhost:3000
 
 * Database handling and CRUD operations
 
-Project structuring and deployment readiness
+* Project structuring and deployment readiness
 
 👩‍💻 Author
 
